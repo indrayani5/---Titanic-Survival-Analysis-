@@ -45,3 +45,11 @@ Download the .pbix file from this repository.
 Open it in Power BI Desktop.
 
 Explore the visuals using slicers and filters.
+
+🧑‍💻 Author
+
+Indrayani Bhagat
+
+📍 Pune, India
+
+🔗 LinkedIn Profile - https://www.linkedin.com/in/indrrayani-bhagat-056b24354
