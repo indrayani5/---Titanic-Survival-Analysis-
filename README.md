@@ -37,11 +37,6 @@ DAX (Data Analysis Expressions) – Calculated fields and measures
 
 Titanic Survival Analysis Dashboard.pbix → Power BI file containing the complete dashboard.
 
-📷 Preview (Optional)
-
-(You can later upload a screenshot of your dashboard here)
-![Dashboard Screenshot](screenshot.png)
-
 📌 How to Use
 
 Download the .pbix file from this repository.
